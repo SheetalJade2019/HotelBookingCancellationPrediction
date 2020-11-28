@@ -14,7 +14,7 @@ The dataset has 32 features out of which 2 unimportant features are removed to r
 
 ### Screenshot of GUI
 
-<img src="" align="center" width="900" height="500">
+<img src="https://github.com/SheetalJade2019/HotelBookingCancellationPrediction/blob/main/Hotel_Booking_Prediction.png" align="center" width="900" height="500">
 
 ### Software used
 
